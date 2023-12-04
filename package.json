@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@tamagui/babel-plugin": "^1.79.6",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.4",
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
